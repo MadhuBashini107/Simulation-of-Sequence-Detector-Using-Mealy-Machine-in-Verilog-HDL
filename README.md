@@ -1,4 +1,4 @@
-# **Experiment: Simulation of Sequence Detector Using Mealy Machine in Verilog HDL**
+# **Experiment:Simulation of Sequence Detector Using Mealy Machine in Verilog HDL**
 
 ---
 
